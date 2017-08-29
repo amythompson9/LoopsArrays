@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\bin\Debug\LoopsArrays.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\bin\Debug\LoopsArrays.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\bin\Debug\LoopsArrays.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\obj\Debug\LoopsArrays.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\obj\Debug\LoopsArrays.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopsArrays\LoopsArrays\obj\Debug\LoopsArrays.pdb
